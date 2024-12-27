@@ -1,0 +1,4 @@
+# Composerの依存関係
+/vendor
+/bin
+.env
